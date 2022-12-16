@@ -8,7 +8,7 @@ Calculadora de IMC é uma aplicação full stack web construída com o objetivo 
 
 A aplicação recebe dois valores como parâmetros para a realização do cálculo. Aplicando regras de lógica, sobre os valores, bem como definições matemáticas.
 
-[🔗 Clique aqui para acessar o projeto]()
+[🔗 Clique aqui para acessar o projeto](https://projeto-imc-gamma.vercel.app/)
 
 ## ⚙️Tecnologias
 
